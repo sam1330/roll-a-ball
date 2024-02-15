@@ -1,0 +1,320 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1708032487250238, "dur":19527, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708032487269774, "dur":106, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708032487269912, "dur":589, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708032487270658, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/level0.resS" }}
+,{ "pid":12345, "tid":0, "ts":1708032487271234, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708032487271457, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708032487271626, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708032487271728, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708032487271809, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708032487272133, "dur":101, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708032487272288, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708032487272399, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708032487274177, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1708032487270520, "dur":3861, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708032487274383, "dur":138656, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708032487413040, "dur":347, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708032487413542, "dur":1561, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1708032487270790, "dur":3599, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708032487274391, "dur":4862, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708032487281962, "dur":602, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1708032487282568, "dur":152, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1708032487283004, "dur":90, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\PC\\Desktop\\University\\Videojuegos\\Unity\\Roll a Ball\\Roll a Ball\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708032487283095, "dur":120, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\PC\\Desktop\\University\\Videojuegos\\Unity\\Roll a Ball\\Roll a Ball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708032487283216, "dur":263, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\PC\\Desktop\\University\\Videojuegos\\Unity\\Roll a Ball\\Roll a Ball\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708032487283480, "dur":329, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\PC\\Desktop\\University\\Videojuegos\\Unity\\Roll a Ball\\Roll a Ball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708032487283810, "dur":450, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\PC\\Desktop\\University\\Videojuegos\\Unity\\Roll a Ball\\Roll a Ball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708032487284264, "dur":99, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\PC\\Desktop\\University\\Videojuegos\\Unity\\Roll a Ball\\Roll a Ball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708032487284364, "dur":247, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\PC\\Desktop\\University\\Videojuegos\\Unity\\Roll a Ball\\Roll a Ball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708032487282567, "dur":2186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1708032487285330, "dur":120699, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1708032487411865, "dur":120, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1708032487411863, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1708032487412037, "dur":955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1708032487270998, "dur":3428, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708032487274430, "dur":911, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708032487275342, "dur":3935, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708032487279279, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1708032487279349, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708032487322988, "dur":1310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1708032487324399, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708032487324469, "dur":2189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708032487326731, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708032487326880, "dur":3579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708032487330509, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708032487330581, "dur":1972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708032487332605, "dur":153, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708032487332779, "dur":2682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708032487335519, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708032487335635, "dur":2941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708032487338655, "dur":4413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1708032487343214, "dur":3137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/level1.resS" }}
+,{ "pid":12345, "tid":2, "ts":1708032487346398, "dur":66635, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708032487270838, "dur":3558, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708032487274399, "dur":891, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708032487275290, "dur":3997, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708032487279287, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1708032487279344, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708032487288843, "dur":1141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1708032487290031, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1708032487290351, "dur":872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1708032487291360, "dur":1007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1708032487292683, "dur":866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1708032487293597, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708032487293594, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708032487293773, "dur":5153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708032487299069, "dur":3108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708032487302287, "dur":1420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708032487303812, "dur":1478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708032487305390, "dur":1607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708032487307047, "dur":139, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708032487307207, "dur":1419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708032487308742, "dur":1490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708032487310289, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708032487310370, "dur":1871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708032487312353, "dur":1483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708032487313948, "dur":1704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708032487315704, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708032487315809, "dur":1595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708032487317456, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708032487317549, "dur":1543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708032487319161, "dur":552, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708032487319757, "dur":2563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708032487322440, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708032487322514, "dur":1823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708032487324443, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708032487324524, "dur":2131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708032487326707, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708032487326830, "dur":3730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708032487330647, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708032487330795, "dur":2409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708032487333253, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708032487333340, "dur":3269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708032487336665, "dur":1915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":3, "ts":1708032487338700, "dur":3095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1708032487341881, "dur":3401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/level2" }}
+,{ "pid":12345, "tid":3, "ts":1708032487345332, "dur":67703, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708032487270868, "dur":3534, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708032487274405, "dur":880, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708032487275286, "dur":3989, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708032487279286, "dur":69, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1708032487279277, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1708032487279357, "dur":176, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708032487321679, "dur":1211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1708032487322993, "dur":248, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708032487323269, "dur":1753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708032487325082, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708032487325164, "dur":3029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708032487328274, "dur":263, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708032487328559, "dur":2771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708032487331389, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708032487331473, "dur":2222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708032487333743, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708032487333858, "dur":2119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708032487336026, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708032487336130, "dur":2766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708032487338952, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708032487339035, "dur":2320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1708032487341490, "dur":2742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/level2.resS" }}
+,{ "pid":12345, "tid":4, "ts":1708032487344299, "dur":2636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1708032487346990, "dur":66064, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708032487270973, "dur":3442, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708032487274418, "dur":789, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708032487275207, "dur":4112, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708032487279326, "dur":160, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":5, "ts":1708032487279319, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1708032487279488, "dur":221, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708032487359577, "dur":1184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1708032487360809, "dur":52228, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708032487271028, "dur":3404, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708032487274435, "dur":888, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708032487275323, "dur":3948, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708032487279272, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1708032487279342, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708032487303943, "dur":1164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1708032487305221, "dur":1404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1708032487306713, "dur":1810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1708032487308634, "dur":1674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1708032487310415, "dur":1741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1708032487312255, "dur":1592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1708032487313968, "dur":1391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1708032487315474, "dur":1470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1708032487317006, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708032487317101, "dur":1607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1708032487318819, "dur":2390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1708032487321284, "dur":141, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708032487321446, "dur":1522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1708032487323027, "dur":213, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708032487323263, "dur":1912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1708032487325232, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708032487325319, "dur":3704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1708032487329082, "dur":171, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708032487329271, "dur":2363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1708032487331688, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708032487331802, "dur":2928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1708032487334810, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708032487334883, "dur":2170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1708032487337115, "dur":7422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":6, "ts":1708032487344617, "dur":4914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1708032487349590, "dur":63493, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708032487271062, "dur":3378, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708032487274443, "dur":885, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708032487275328, "dur":3941, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708032487279270, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1708032487279327, "dur":145, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708032487294099, "dur":960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1708032487295118, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":7, "ts":1708032487295183, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708032487295763, "dur":2264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":7, "ts":1708032487298105, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708032487298287, "dur":2863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708032487301289, "dur":1242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708032487302581, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708032487302671, "dur":1689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708032487304462, "dur":1064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708032487305572, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708032487305704, "dur":2615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708032487308365, "dur":144, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708032487308528, "dur":1283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708032487309854, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708032487309964, "dur":1005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708032487311067, "dur":1425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708032487312603, "dur":1570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708032487314247, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708032487314340, "dur":2009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708032487316405, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708032487316540, "dur":1428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708032487318092, "dur":1840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708032487320025, "dur":139, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708032487320184, "dur":1840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708032487322136, "dur":1599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708032487323790, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708032487323862, "dur":2143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708032487326056, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708032487326135, "dur":3796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708032487330002, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708032487330074, "dur":2120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708032487332246, "dur":193, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708032487332481, "dur":3182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708032487335719, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708032487335794, "dur":3858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708032487339730, "dur":3533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1708032487343356, "dur":3194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/level1" }}
+,{ "pid":12345, "tid":7, "ts":1708032487346607, "dur":66427, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708032487271096, "dur":3350, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708032487274448, "dur":742, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708032487275190, "dur":4089, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708032487279287, "dur":194, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1708032487279280, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1708032487279482, "dur":172, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708032487333519, "dur":1831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1708032487335404, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708032487335477, "dur":2675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1708032487338221, "dur":1492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1708032487339777, "dur":5017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1708032487344887, "dur":2615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1708032487347552, "dur":65518, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708032487271126, "dur":3326, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708032487274455, "dur":711, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708032487275166, "dur":4101, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708032487279293, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1708032487279276, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1708032487279354, "dur":157, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708032487283498, "dur":1985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1708032487285972, "dur":839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1708032487287022, "dur":859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1708032487288018, "dur":990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1708032487289100, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708032487289694, "dur":910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1708032487290810, "dur":719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1708032487291593, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708032487291724, "dur":1043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1708032487293106, "dur":1182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708032487294433, "dur":1488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball.exe" }}
+,{ "pid":12345, "tid":9, "ts":1708032487296245, "dur":3967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708032487300367, "dur":1360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708032487301763, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708032487301891, "dur":1044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708032487302984, "dur":136, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708032487303140, "dur":1453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708032487304712, "dur":1121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708032487305898, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708032487306042, "dur":1302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708032487307407, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708032487307505, "dur":1973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708032487309576, "dur":1122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708032487310766, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708032487310845, "dur":1587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708032487312555, "dur":1584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708032487314251, "dur":2442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708032487316813, "dur":1798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708032487318721, "dur":1936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708032487320713, "dur":317, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708032487321050, "dur":1568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708032487322728, "dur":1997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708032487324781, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708032487324875, "dur":2823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708032487327751, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708032487327890, "dur":3069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708032487331016, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708032487331170, "dur":2357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708032487333650, "dur":2749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708032487336490, "dur":2351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":9, "ts":1708032487339291, "dur":1939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":9, "ts":1708032487341314, "dur":3657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/level3.resS" }}
+,{ "pid":12345, "tid":9, "ts":1708032487345039, "dur":2560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":9, "ts":1708032487347654, "dur":65423, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1708032487271171, "dur":3287, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1708032487274459, "dur":4840, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1708032487279300, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1708032487279476, "dur":209, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1708032487352546, "dur":1264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1708032487353903, "dur":59161, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708032487271205, "dur":3260, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708032487274465, "dur":4801, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708032487279281, "dur":203, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":11, "ts":1708032487279267, "dur":218, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":11, "ts":1708032487279485, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708032487311870, "dur":1805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":11, "ts":1708032487313817, "dur":1369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1708032487315247, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708032487315365, "dur":1334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1708032487316810, "dur":1556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1708032487318441, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708032487318524, "dur":2009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1708032487320651, "dur":1818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1708032487322519, "dur":155, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708032487322694, "dur":1997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1708032487324746, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708032487324878, "dur":3043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1708032487328036, "dur":506, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708032487328562, "dur":2528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1708032487331140, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708032487331277, "dur":2230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1708032487333583, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708032487333653, "dur":2705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1708032487336477, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708032487336560, "dur":19791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1708032487356424, "dur":56617, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708032487271318, "dur":3155, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708032487274473, "dur":4787, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708032487279275, "dur":131, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708032487279438, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708032487322235, "dur":1223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/app.info" }}
+,{ "pid":12345, "tid":12, "ts":1708032487323464, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708032487323587, "dur":1981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1708032487325646, "dur":204, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708032487325891, "dur":3937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1708032487329918, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708032487329992, "dur":2183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1708032487332229, "dur":205, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708032487332478, "dur":2730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1708032487335264, "dur":163, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708032487335467, "dur":3274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1708032487338857, "dur":2454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":12, "ts":1708032487341380, "dur":2805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/level3" }}
+,{ "pid":12345, "tid":12, "ts":1708032487344271, "dur":2520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/PC/Desktop/University/Videojuegos/Unity/Roll a Ball/Builds/Roll a Ball_Data/level0.resS" }}
+,{ "pid":12345, "tid":12, "ts":1708032487346864, "dur":66188, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708032487417839, "dur":1592, "ph":"X", "name": "ProfilerWriteOutput" }
+,
